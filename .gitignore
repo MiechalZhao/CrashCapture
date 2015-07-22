@@ -1,0 +1,7 @@
+#Library ignore.
+.DS_Store
+bin/
+gen/
+
+libs/
+obj/
